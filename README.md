@@ -1,7 +1,7 @@
-# ACIT 4850 Lab02
-Lab 02 workiing with:
+# ACIT 4850 Lab03
+Lab 03 working with:
 
-Cooper Worobetz A00925321
-Patrick Voth A00932944
+Cooper Worobetz  A00925321
+Patrick    Voth  A00932944
 
-Currently contains the starter package for our conversion of a website to use CodeIgniter.
+This is a codeigniter website featuring a gallery that uses an sql database to get image source locations, converted from an HTML only site. 
